@@ -2,4 +2,4 @@
 
 This is a new repo.
 added 1st line.
-Changing line in dev environmrnt.
+Chaning line in dev and qa
